@@ -8,7 +8,13 @@ After finish, run the development server:
 npm run vite
 # or
 yarn vite --port 3000
-Open http://localhost:3000 with your browser to see the result.
+Open 
+
+http://localhost:3000 => main page
+http://localhost:3000/evenings => courses page
+
+
+with your browser to see the result.
 
 main packages uses:
 React router dom
